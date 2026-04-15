@@ -17,6 +17,25 @@ This project is licensed under **Lihuo License v1.0**.
 
 See [LICENSE](./LICENSE) for details.
 
+## 💼 Commercial Licensing
+
+Lihuo Protocol is available for commercial use under a separate license.
+
+If you are:
+
+- Building AI products
+- Running LLM-based services
+- Deploying in enterprise environments
+
+→ Contact for licensing
+
+This ensures:
+
+- System integrity
+- Proper implementation
+- Responsible deployment
+
+--------------------------
 
 ## Why this exists
 
