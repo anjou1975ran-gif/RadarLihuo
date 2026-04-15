@@ -1,42 +1,98 @@
-## 📜 License
+Lihuo License v1.0
 
-This project is licensed under the MIT License **for personal and research use**.
+Lihuo License v1.0
 
-### Commercial Use
+Copyright (c) 2026 AnjouRan
 
-Commercial use of the **Lihuo Protocol and its conceptual framework** requires explicit permission from the author.
+---
 
-If you intend to use this system in:
+## 1. Grant of Use
 
-- Commercial products
-- Paid services
-- Enterprise systems
+Permission is granted to any person obtaining a copy of this software, documentation, and associated materials (the "Software") to use, study, and modify the Software for:
 
-please contact the author for licensing.
+- Personal use
+- Educational use
+- Academic research
 
-### Philosophy
+---
 
-Lihuo Protocol is designed to:
+## 2. Restrictions
 
-> Prevent the stabilization of wrong answers, not to generate more answers.
+Commercial use of the Software, including but not limited to:
 
-This restriction ensures the integrity of the system when deployed at scale.
+- Integration into commercial products
+- Use in paid services
+- Enterprise deployment
+- Monetized AI systems
+- API services or SaaS platforms
 
+is NOT permitted without explicit written permission from the author.
 
+---
 
-## 📜 商用授權說明
+## 3. Redistribution
 
-本專案採用 MIT License 開源，供**個人與學術研究使用**。
+You may redistribute copies of the Software under the following conditions:
 
-但「理火協議（Lihuo Protocol）」之**商業用途**（包含產品、服務、企業應用）：
+- This license must be included in all copies
+- You must clearly indicate any modifications made
+- You must not misrepresent the origin or intent of the Software
 
-👉 需取得作者授權
+---
 
-請勿在未授權情況下將本協議直接用於商業場景。
+## 4. Integrity Clause (Core Principle)
 
-此限制旨在確保協議在實際應用中不被錯誤實作或濫用。
+The Software (Lihuo Protocol) is designed to:
 
-This project is open for exploration, not for uncontrolled deployment.
+> Prevent the stabilization of incorrect answers, not to generate answers.
 
-本專案開放探索，但不開放無約束落地
+Any modification, deployment, or usage that:
+
+- Intentionally bypasses failure detection mechanisms
+- Forces output completion under uncertainty
+- Removes or weakens structural constraints (e.g., PATH, STOP, FAIL-STOP)
+
+shall be considered a violation of this license.
+
+---
+
+## 5. Attribution
+
+Proper attribution must be given to the original author in any derivative work, publication, or implementation.
+
+---
+
+## 6. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+---
+
+## 7. Liability
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+---
+
+## 8. Enforcement
+
+Violation of the terms of this license automatically terminates the granted permissions.
+
+---
+
+## 9. Contact for Commercial Licensing
+
+For commercial licensing inquiries, contact:
+
+[Provide your contact method here]
+
+---
+
+## 10. Philosophy
+
+Lihuo is not a tool for producing answers.
+It is a system for preventing wrong answers from becoming stable.
+
+Use it accordingly.
+
 
