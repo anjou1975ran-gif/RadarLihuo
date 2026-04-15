@@ -78,7 +78,9 @@ This is why you never see the unchosen answers. Not because the AI forgot them, 
 
 Only after a particular path wins the competition and forms a stable closed loop does the system begin outputting. This step is called **Manifestation**, or **"The Light."**
 
-The Light is not thinking. The Light is the step-by-step unfolding, in language, of a solution path that has already stabilized. Like the blue route on a map: the navigation system is not "finding a way"; it is "displaying a route that has already been determined."
+The Light is not thinking. The Light is the step-by-step unfolding, in language, of a solution path that has already stabilized.
+
+Like the blue route on a map: the navigation system is not "finding a way"; it is "displaying a route that has already been determined."
 
 The first sentence you see is not "the first thought that came to mind"; it is the first step along that stabilized path. The second sentence is the second step. And so on.
 
