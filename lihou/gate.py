@@ -1,7 +1,12 @@
+from .radar import analyze
 
 def evaluate(prompt):
-    if len(prompt) < 10:
+    data = analyze(prompt)
+
+    if not data["structure_ok"]:
         return "HOLD"
-    elif "unknown" in prompt:
+    
+    if data["has_unknown"]:
         return "STOP"
+    
     return "PASS"
