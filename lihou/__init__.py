@@ -4,11 +4,7 @@ from .core import run
 
 __all__ = ["run"]
 
-"""Backward-compatible package alias.
-
-This allows imports such as `from lihuo import run` while the canonical
-implementation currently lives in the `lihou` package directory.
-"""
+# alias package
 
 from lihou import run
 
